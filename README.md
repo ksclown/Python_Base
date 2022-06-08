@@ -4,9 +4,11 @@ Repository for Python_Base_Summary
 ---
 
 개인적으로 파이썬 기본은 간단하게 정리할 예정입니다.\
+문서는 한국어로 정리되어 있습니다.\
 보는 팁은 아래와 같습니다.
 
 Personally, I plan to keep the basics of Python simple.\
+Documents are written in Korean.\
 Here are some tips to see.
 
 ## 파일이름이 [Python]이 붙은 파일만 보면 됩니다.
