@@ -28,7 +28,8 @@ Document viewing procedure
 1. [Python] Calculation and Type.ipynb
 2. [Python] Loops and Conditionals.ipynb
 3. [Python] Function and Class.ipynb
-4. [Python] DataBase (I plan to do)
+4. [Python] DataBase
+5. [Python] Turtle and Widget in Google Colab
 ...
 
 ## 피드백 (Feedback)
